@@ -2,7 +2,7 @@ name: Auto Login Bot
 
 on:
   schedule:
-    - cron: '0 2 * * 1-5' # At 7 am on Mon-Fri
+    - cron: '0 0 * * 1-5' # At 7 am on Mon-Fri
   push:
     branches:    
       - main
