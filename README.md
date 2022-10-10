@@ -3,7 +3,7 @@ Daily Cron Job runner that opens browser, do login via your broker credentials a
 I created this only for Angel Broking
 # Setup:
 
-- In the quantman-login respository page. 
+- Go to quantman-angel-auto-login respository page. 
 - Fork the repo using the fork button. (at the top right area in the page.) 
 - In the forked repository page do the below 2 steps. (You should already be in the forked repo, if not Go to the forked repo)
 - *Settings* 
