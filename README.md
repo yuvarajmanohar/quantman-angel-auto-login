@@ -17,4 +17,4 @@ I created this only for Angel Broking
 - *Actions*
   - Select the "Auto Login Bot" in the left side panel.
   - In the disclaimer warning message in the center of the page, click "Enable Workflow"
-- Now daily at 07:30, the enabled action will login in you into QuantMan using the credentials filled in the repository's secret.
+- Now daily at around 7 AM, the enabled action will login in you into QuantMan using the credentials filled in the repository's secret.
