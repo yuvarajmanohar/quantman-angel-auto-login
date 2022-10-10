@@ -15,6 +15,10 @@ I created this only for Angel Broking
     3. Click New Repository Secret. Add TOTP => <value> (fill in your 26 character Secret Key)
 
 - *Actions*
+
+  - Click "Actions" button at the top of the page.
+  - Click "I Understand my workflows, go ahead and enable them"
   - Select the "Auto Login Bot" in the left side panel.
   - In the disclaimer warning message in the center of the page, click "Enable Workflow"
+
 - Now daily at around 7 AM, the enabled action will login in you into QuantMan using the credentials filled in the repository's secret.
