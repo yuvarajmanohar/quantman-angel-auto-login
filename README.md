@@ -1,6 +1,5 @@
 # quantman-angel-auto-login
-Daily Cron Job runner that opens browser, do login via your broker credentials and close the browser.
-I created this only for Angel Broking
+Daily Cron Job runner to login via your broker credentials. I created this only for Angel Broking
 # Setup:
 
 - Go to quantman-angel-auto-login respository page. 
